@@ -1,0 +1,6 @@
+{
+  "name": "Nyaya Mitra — Indian Legal Rights & Grievance Platform",
+  "description": "Empowering Indian citizens to understand everyday legal rights, identify unfair practices, dispute restaurant charges & traffic challans, and connect to official complaint channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
